@@ -4,6 +4,7 @@ C'est un projet initié par l'établissement dans lequel je suis ma formation.  
 ### De la fast fashion à la mode éthique
 *Porteuse de valeurs intimement liées à notre épanouissement personnel, l’industrie de la mode est pourtant de
 plus en plus critiquée pour ses pratiques environnementales plus que problématiques.*
+
 Dégradation des fibres synthétiques en microparticules, surutilisation de l’eau et des pesticides
 dans la culture du coton, accumulation folle de déchets impossibles à recycler, conditions de
 travail proche de l’esclavage dans les pays émergents, pollution colossale liée au transport des
